@@ -2,9 +2,15 @@
 
 Custom scrollbar style for Browsers
 
+## Before
+
 ![](before.png)
 
+## After
+
 ![](after.png)
+
+## Usage
 
 Add user-defined CSS using Stylus.
 
